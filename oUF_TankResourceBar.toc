@@ -1,0 +1,10 @@
+## Interface: 90001
+## Title: oUF Tank ResourceBar
+## Version: 0.2.1
+## Author: HopeAsd
+## Notes: add tank resource bar to oUF layout
+## RequiredDeps: oUF
+
+## Credits-to: EK
+
+oUF_TankResource.lua
