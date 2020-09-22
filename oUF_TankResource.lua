@@ -15,7 +15,6 @@
     .noPowerCostColor the RGB values for noPowerCost Defaults to {.9,.1,.1}
 
 	## Support Class
-	- PALDAIN
 	- WARRIOR
 	- DEMON HUNTER
     - MONK
