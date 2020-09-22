@@ -9,11 +9,11 @@
 >Shows the Tank Defense Spell Cooldown as a status bar.
 
 ## **Support Tank Defense Spell** 
--[Rune Tap]("https://www.wowhead.com/spell=194679/rune-tap") 
--[Frenzied Regeneration]("https://www.wowhead.com/spell=22842/frenzied-regeneration") 
--[Shield Block]("https://www.wowhead.com/spell=2565/shield-block") 
--[Demon Spikes]("https://www.wowhead.com/spell=203720/demon-spikes") 
--[PurifyingBrew]("https://www.wowhead.com/spell=119582/purifying-brew") 
+- [Rune Tap]("https://www.wowhead.com/spell=194679/rune-tap") 
+- [Frenzied Regeneration]("https://www.wowhead.com/spell=22842/frenzied-regeneration") 
+- [Shield Block]("https://www.wowhead.com/spell=2565/shield-block") 
+- [Demon Spikes]("https://www.wowhead.com/spell=203720/demon-spikes") 
+- [PurifyingBrew]("https://www.wowhead.com/spell=119582/purifying-brew") 
 
 ## **How to use**
 
