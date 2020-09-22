@@ -10,11 +10,11 @@
 Shows the Tank Defense Spell Cooldown as a status bar.
 
 ## **Support Tank Defense Spell** 
-- ![Rune Tap](https://wow.zamimg.com/images/wow/icons/tiny/spell_deathknight_runetap.gif) 
-- ![Frenzied Regeneration](https://wow.zamimg.com/images/wow/icons/tiny/ability_bullrush.gif) 
-- ![Shield Block](https://wow.zamimg.com/images/wow/icons/tiny/ability_defend.gif)
-- ![Demon Spikes](https://wow.zamimg.com/images/wow/icons/tiny/ability_demonhunter_demonspikes.gif) 
-- ![PurifyingBrew](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_beer_06.gif) 
+- ![](https://wow.zamimg.com/images/wow/icons/tiny/spell_deathknight_runetap.gif) Rune Tap
+- ![](https://wow.zamimg.com/images/wow/icons/tiny/ability_bullrush.gif) Frenzied Regeneration
+- ![](https://wow.zamimg.com/images/wow/icons/tiny/ability_defend.gif) Shield Block
+- ![](https://wow.zamimg.com/images/wow/icons/tiny/ability_demonhunter_demonspikes.gif) Demon Spikes
+- ![](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_beer_06.gif) PurifyingBrew
 
 ## **How to Use**
 
