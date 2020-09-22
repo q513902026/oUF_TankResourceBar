@@ -19,4 +19,4 @@ Shows the Tank Defense Spell Cooldown as a status bar.
 ## **How to Use**
 
 - For information on how to implement this element in your own layout please view the code documentation.
-- [oUF_Ruri](https://wowinterface.com/downloads/info24945-oUF_Ruri.html) uses this plug-in as a library, you can check the [relevant code](https://github.com/EKE00372/oUF_Ruri/blob/master/Elements.lua#L461) for reference
+- [oUF_Ruri](https://wowinterface.com/downloads/info24945-oUF_Ruri.html) uses this plug-in as a library, you can check the [relevant code](https://github.com/EKE00372/oUF_Ruri/blob/master/Elements.lua#L461-L515) for reference
